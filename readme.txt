@@ -5,3 +5,6 @@
 # docs --> Contais Documentation Details
 
 # A new line has been added
+# This is an accepted change
+# This change was made on 30th Apr 2020
+
